@@ -1,1 +1,1 @@
-<ruby><sub>エン</sub><br><img alt="煙" src="svg/煙1.svg" align="top"></ruby> [**けむ**り](https://jisho.org/search/けむ)<sub>る、い</sub>「[<ruby>喫煙<rt>きつ　　</rt></ruby>](https://jisho.org/search/喫煙)　[<ruby>禁煙<rt>きん　　</rt></ruby>](https://jisho.org/search/禁煙)」
+<ruby><sub>エン</sub><br><img alt="煙" src="svg/煙1.svg" align="top"></ruby> [**けむ**り](https://jisho.org/search/けむ)<sub>る・い</sub>「[<ruby>喫煙<rt>きつ　　</rt></ruby>](https://jisho.org/search/喫煙)　[<ruby>禁煙<rt>きん　　</rt></ruby>](https://jisho.org/search/禁煙)」
