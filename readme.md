@@ -1,1 +1,1 @@
-<img alt="煙" src="svg/煙1.svg" align="middle">エン　**けむ**(る,い)
+　エン<img alt="煙" src="svg/煙1.svg" align="middle">　**けむ**(る,い)
